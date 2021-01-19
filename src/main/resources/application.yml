@@ -1,0 +1,6 @@
+server:
+  port: 8083
+user:
+  id: 1
+  username: zhy
+  isBoy: true
